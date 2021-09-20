@@ -78,6 +78,7 @@
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:layout_width="wrap_content"
+        android:id="@+id/fabBtnCreateNote"
         android:layout_height="wrap_content"
         android:src="@drawable/ic_post_add"
         android:tint="@color/white"
